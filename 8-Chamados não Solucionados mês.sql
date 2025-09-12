@@ -1,1 +1,0 @@
-SELECT count(id) as ticketCount FROM `glpi_tickets` where status in (1, 2, 3, 4) AND glpi_tickets.is_deleted = 0
