@@ -1,6 +1,4 @@
-# Consultas Metabase
-
-Coleção de queries SQL usadas nos dashboards internos.
+# Consultas Metabase - GLPI
 
 ## Estrutura Geral por Mês
 1- `1-Total de Chamados mês.sql` – Total de chamados abertos no mês
