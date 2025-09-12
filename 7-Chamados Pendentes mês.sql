@@ -1,0 +1,1 @@
+SELECT count(id) as ticketCount FROM `glpi_tickets` where status = 4 and is_deleted = 0

@@ -1,0 +1,1 @@
+SELECT COUNT(1) FROM `glpi_tickets` where status = 2 and is_deleted = 0
